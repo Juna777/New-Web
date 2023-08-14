@@ -1,0 +1,31 @@
+body{background-image: url(bg1.jpg);background-repeat: repeat;background-size: cover;}
+.footer {
+    background-color:rgb(9, 234, 230);
+    color: rgba(65, 35, 235, 0.737);
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    height: 90px;
+}
+
+body {
+    margin: 0px;
+    height: 300%;
+}
+.table2{
+    margin: auto;
+    padding: 20px;
+}
+.footer li{
+    padding: px;
+    list-style-type: none;
+
+}
+td{
+   padding-right: 100px; 
+}
+#logo{
+    width: 100px;
+    height: 60px;
+}
+
